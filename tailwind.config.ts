@@ -55,7 +55,7 @@ export default {
 				},
 				hackloop: {
 					yellow: '#FFD700',
-					black: '#000000',
+					black: '#36454F',
 					darkGray: '#222222',
 					gray: '#333333',
 					lightGray: '#555555',
